@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 use Modules\CircleApps\App\Facades\CircleAppsMenu;
 use Modules\CircleContacts\App\Console\CircleContactsInstall;
+use Modules\CircleContacts\App\Console\CircleInovicesInstall;
 use TomatoPHP\TomatoAdmin\Services\Contracts\Menu;
 
 class CircleContactsServiceProvider extends ServiceProvider

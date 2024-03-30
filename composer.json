@@ -3,6 +3,15 @@
     "type": "laravel-module",
     "description": "Manage your contacts and customers from your profile",
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "module",
+        "contacts",
+        "customers",
+        "profile",
+        "circlexo",
+        "tomatophp"
+    ],
     "authors": [
         {
             "name": "Fady Mondy",

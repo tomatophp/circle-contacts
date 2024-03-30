@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/tomatophp/circle-contacts/blob/master/art/cover.png)
+
 # Circle Contacts
 
 Manage your contacts and customers from your profile
